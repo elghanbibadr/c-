@@ -1,0 +1,5 @@
+
+
+
+1--cout  --> standard output stream ;
+2-- <<   --> stream insertion operator ;
